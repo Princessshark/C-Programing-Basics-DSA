@@ -2,7 +2,7 @@
 Documentation and code mangement is something fundamental, learning to write C code.
 
 I will try my best to nest Directories/Folders properly.
-I will be maintaining two Directories/Folders for 
+I will be maintaining two Directories/Folders for: 
 source code 
 executable code
 
