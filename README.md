@@ -2,9 +2,11 @@
 Documentation and code mangement is something fundamental, learning to write C code.
 
 I will try my best to nest Directories/Folders properly.
-I will be maintaining two Directories/Folders for: 
+I will be maintaining only Directories/Folders for: 
 source code 
-executable code
+
+to convert it to executable use the following command after you have a gcc compiler installed
+gcc source.c -o ./exe
 
 ZERO TRUST
 I hope you read the source code EVERYTIME BEFORE you execute the excutable file. 
